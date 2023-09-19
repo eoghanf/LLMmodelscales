@@ -2,19 +2,20 @@ Dataset Scales
 
 Datasets
 
-|                    | Tokens     | Size | Date      |             | Notes                         |
-|--------------------|------------|------|-----------|-------------|-------------------------------|
-| CulturaX           | 6.3 x 10^9 | 27 TB | Sept 2023 | Text        | Multilingual                  |
-| Falcon RefinedWeb  |            | | Jun 2023  | Text        | English                       |  
-| Falcon RWeb extract | 600 x 10^9 | | Jun 2023 | Text        | English                       |
-| The Stack          |            | 3 TB | Nov 2022  | Code        | All langs, Permissive license |
-| Stack dedup Python | 26 B (?)   | 80 GB | Nov 2022  | Code        | Python only                   |
-| The Pile           | ~340 GT    | 825 GB | Dec 2020  | Text        | Components below              | Text   |
-| GPT-3.5 dataset    |            |      | Nov 2022  | Code + Text | Undisclosed                   | 
-| GPT-3 dataset      | ~300 GT    |      | Mar 2022  | Code + Text | Undisclosed                   | 
-| OpenWebText 2      |            | 66 GB | Jun 2020  | Text        |                               | |  
-| OpenWebText        |            | 40 GB | Unk 2019  | Text        | Repl of WebText               | 
-| WebText (GPT-2)    |            | 40 GiB | Feb 2019  | Text        | Outbound Reddit links         |
+|                    | Tokens   | Size | Date      |             | Notes                         |
+|--------------------|----------|------|-----------|-------------|-------------------------------|
+| CulturaX           | 6.3 GT   | 27 TB | Sept 2023 | Text        | Multilingual                  |
+| Falcon RefinedWeb  |          | | Jun 2023  | Text        | English                       |  
+| Falcon RWeb extract | 600 GT   | | Jun 2023 | Text        | English                       |
+| The Stack          |          | 3 TB | Nov 2022  | Code        | All langs, Permissive license |
+| Stack dedup Python | 26 B (?) | 80 GB | Nov 2022  | Code        | Python only                   |
+| PaLM  | 780 B |   | Oct 2022 | Code + Text | 50% tokens "social media convs" |
+| The Pile           | ~340 GT  | 825 GB | Dec 2020  | Text        | Components below              | Text   |
+| GPT-3.5 dataset    |          |      | Nov 2022  | Code + Text | Undisclosed                   | 
+| GPT-3 dataset      | ~300 GT  |      | Mar 2022  | Code + Text | Undisclosed                   | 
+| OpenWebText 2      |          | 66 GB | Jun 2020  | Text        |                               | |  
+| OpenWebText        |          | 40 GB | Unk 2019  | Text        | Repl of WebText               | 
+| WebText (GPT-2)    |          | 40 GB | Feb 2019  | Text        | Outbound Reddit links         |
 
 (Note June 2023 Common Crawl is 390 TiB)
 The Pile - selected components
