@@ -14,8 +14,8 @@
 | Stack dedup Python  | 26 GT    | 80 GB | Nov 2022 | Code | Python only                               |
 | PaLM                | 780 GT   |    | Oct 2022 | Code + Text | 50% tokens "social media convs"           |
 | GPT-3.5 dataset     |          |    | Nov 2022 | Code + Text | Undisclosed                               |
-| MassiveText         | 2350 GT  | 10.5 TB | Dec 2021 | Text | "We do not attempt to filter out low quality" English only |
 | GPT-3 dataset       | 300 GT   |    | Mar 2022 | Code + Text | Undisclosed                               | 
+| MassiveText         | 2350 GT  | 10.5 TB | Dec 2021 | Text | "We do not attempt to filter out low quality" English only |
 | The Pile            | ~340 GT  | 825 GB | Dec 2020 | Text | Components below                          |
 | OpenWebText 2       |          | 66 GB | Jun 2020 | Text |                                           | |  
 | OpenWebText         |          | 40 GB | Unk 2019 | Text | Repl of WebText                           | 
