@@ -9,10 +9,10 @@ Models
 | Gopher     | 280 B  | 300          | -          | 504 Z          | 59.5              |      |       |           |      |           | 
 | GPT-3      | 175 B  | 300          | -          |                | 65.4              |      |       |           |      |           |
 | GPT-4      | 220 B  |              |            |                |                   |      |       |           |      |           |
-| Llama      | 65 B   | 1400         | 1.03 m     |                |                   |      |       |           |      |           |
+| Llama      | 65 B   | 1400         | 1.03 m     |                |                   | 35.1 |       |           |      |           |
 | Llama 2    | 70 B   | 2000         | 1.72m      |                |                   |      |       |           |      |           |
 | BERT       | .34 B  | 3.3          |            |                |      
-| Claude 1   |        |              |            |                |                |                   |      |       |           |      |           |
+| Claude 1   |        |              |            |                |                |      |      |       |           |      |           |
 
 
 From Llama 1 paper - "(T)raining a 65B-parameter model (..) on 2048 A100 GPU (...) over our dataset containing 1.4T tokens takes approximately 21 days"
