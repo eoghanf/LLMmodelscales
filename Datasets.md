@@ -17,28 +17,13 @@
 | GPT-3.5 dataset                                                                                                                                                                         |          |    | Nov 2022   | Code + Text    |                   |                   | Undisclosed                                                                                                        |
 | GPT-3 dataset                                                                                                                                                                           | 300 GT   |    | Mar 2022   | Code + Text    |                   |                   | Undisclosed                                                                                                        | 
 | MassiveText                                                                                                                                                                             | 2350 GT  | 10.5 TB | Dec 2021   | Text           |                   |                   | "We do not attempt to filter out low quality" English only                                                         |
-| The Pile                                                                                                                                                                                | ~340 GT  | 825 GB | Dec 2020   | Text           |                   |                   | Components below                                                                                                   |
+| The Pile                                                                                                                                                                                | ~340 GT  | 825 GB | Dec 2020   | Text           |                   |                   | [Components](PileComponents.md)                                                                                    |
 | OpenWebText 2  [link](https://github.com/jcpeterson/openwebtext)                                                                                                                        |          | 66 GB | Jun 2020   | Text           |                   |                   |                                                                                                                    |                 |  
 | OpenWebText  [link](https://github.com/jcpeterson/openwebtext)                                                                                                                          |          | 40 GB | Unk 2019   | Text           |                   |                   | Repl of WebText                                                                                                    | 
 | WebText (GPT-2)                                                                                                                                                                         |          | 40 GB | Feb 2019   | Text           |                   |                   | Outbound Reddit links                                                                                              |
 
 (Note June 2023 Common Crawl is 390 TB)
-The Pile - selected components
 
-| Component | Raw Size (GB) |
-| --- |---------------|
-| Pile-CC | 227.1         |
-| PubMed Central | 90.3          |
-| Books3 | 101.0         |
-| OpenWebText 2 | 62.8          |
-| ArXiv | 56.2          |
-| GitHub | 95.2          |
-| FreeLaw | 51.2          |
-| StackExchange | 32.2          |
-| USPTO Backgrounds | 22.9          |
-| Gutenberg | 10.9          |
-| OpenSubtitles | 13.0          |
-| Wikipedia (en) | 6.4           |
 
 # Questions
 
